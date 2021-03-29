@@ -1,6 +1,6 @@
 const contact =0;
 
-// methord of input of contact
+// methord of input of contact;
 function getContact(){
     let firstname;
     let lastname;
